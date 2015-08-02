@@ -1,0 +1,9 @@
+---
+slug: :mikutter-extractor-relation
+depends:
+  mikutter: 3.2.0
+  plugin: []
+version: '0.0.1'
+author: moguno
+name: mikutter-extractor-relation
+description: 抽出タブの条件に「フォローしている」「フォローされている」を追加します。
